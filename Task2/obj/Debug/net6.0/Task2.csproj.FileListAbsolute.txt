@@ -1,0 +1,15 @@
+C:\Projects\Task2\bin\Debug\net6.0\Task2.exe
+C:\Projects\Task2\bin\Debug\net6.0\Task2.deps.json
+C:\Projects\Task2\bin\Debug\net6.0\Task2.runtimeconfig.json
+C:\Projects\Task2\bin\Debug\net6.0\Task2.dll
+C:\Projects\Task2\bin\Debug\net6.0\Task2.pdb
+C:\Projects\Task2\obj\Debug\net6.0\Task2.csproj.AssemblyReference.cache
+C:\Projects\Task2\obj\Debug\net6.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Task2\obj\Debug\net6.0\Task2.AssemblyInfoInputs.cache
+C:\Projects\Task2\obj\Debug\net6.0\Task2.AssemblyInfo.cs
+C:\Projects\Task2\obj\Debug\net6.0\Task2.csproj.CoreCompileInputs.cache
+C:\Projects\Task2\obj\Debug\net6.0\Task2.dll
+C:\Projects\Task2\obj\Debug\net6.0\refint\Task2.dll
+C:\Projects\Task2\obj\Debug\net6.0\Task2.pdb
+C:\Projects\Task2\obj\Debug\net6.0\Task2.genruntimeconfig.cache
+C:\Projects\Task2\obj\Debug\net6.0\ref\Task2.dll
